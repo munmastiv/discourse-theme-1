@@ -1,0 +1,6 @@
+1.
+sudo service postgresql start
+redis-server --daemonize yes
+
+2.
+bin/ember-cli -u
